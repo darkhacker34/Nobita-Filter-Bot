@@ -25,7 +25,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 PICS = (environ.get('PICS', 'https://graph.org/file/bf0c8e57537ec07eb8043.jpg')).split()
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/8ad0d45146ef4076c6c08.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/2b699ab7934b12b53b1a3.jpg")
-SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/09ff21fd5512d7f1aaf1a.jpg")
+SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/8ad0d45146ef4076c6c08.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
@@ -48,7 +48,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Nobita")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # stickers
-STICKERS = (environ.get('STICKERS', 'CAACAgUAAxkBAAEKk8BlNPrdTHUdjCkHswRS7FEGD57bQgADDQACryfoV7k_sTsjJTYAATAE CAACAgUAAxkBAAEKk75lNPrc-rw4n-xEqmgMA14lO_lzMQACLwcAApzI6VfWL2jjZeNSATAE')).split()
+STICKERS = (environ.get('STICKERS', 'CAACAgQAAxkBAAELS8hlu24c5U2_SXQN6AABzGipRf_MEZsAAg8SAALBjQFRMgABFniOOWllNAQ CA')).split()
 
 #Auto approve 
 CHAT_ID = [int(app_chat_id) if id_pattern.search(app_chat_id) else app_chat_id for app_chat_id in environ.get('CHAT_ID', '').split()]
