@@ -123,6 +123,7 @@
 </h3>
 
 <p [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NobiDeveloper/Nobita-Filter-Bot)
+</details>
   
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
