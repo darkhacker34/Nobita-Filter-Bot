@@ -225,7 +225,7 @@ async def next_page(bot, query):
             InlineKeyboardButton("⚜️  ᴛɪᴘꜱ", callback_data="sinfo")
         ])
     btn.insert(0, [
-        InlineKeyboardButton("⛔️  sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴛ ᴄʜᴀɴɴᴇʟ ​ ⛔️", url="https://youtube.com/@NobiDeveloper")
+        InlineKeyboardButton("❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -401,7 +401,7 @@ async def filter_languages_cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton("ʟᴀɴɢᴜᴀɢᴇs", callback_data=f"languages#{key}")
         ])
     btn.insert(0, [
-        InlineKeyboardButton("⛔️  sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴛ ᴄʜᴀɴɴᴇʟ ​ ⛔️", url="https://youtube.com/@NobiDeveloper")
+        InlineKeyboardButton("❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -684,7 +684,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                          InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥", url="https://telegram.me/AllRequestGroups")
+                          InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​S ❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
                              ]
                             ]
                         )
@@ -729,7 +729,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥", url="https://telegram.dog/AllRequestGroups")
+                  InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟS​ ❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
                  ]
                 ]
             )
@@ -1186,13 +1186,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "group_info":
         buttons = [[
-            InlineKeyboardButton('ꜱᴜʙꜱᴄʀɪʙᴇ  ᴍʏ  ʏᴛ  ᴄʜᴀɴɴᴇʟ', url="https://youtube.com/@NobiDeveloper"),
+            InlineKeyboardButton('❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥', url="https://t.me/addlist/lDx-uWhVnDxlMGRl"),
         ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴘ', url="https://telegram.me/AllRequestGroups"),
-            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://telegram.me/NobiDeveloper")
+            InlineKeyboardButton('ɢʀᴏᴜᴘ', url="https://telegram.me/Series_Laab"),
+            InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url="https://telegram.me/MV_Rockers")
         ],[
-            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://telegram.me/NobiDeveloperSupport"),
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url="https://telegram.me/MovieVillaYT")
+            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ', url="https://telegram.me/MV_Rockers"),
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url="https://telegram.me/Movie_Laab")
         ],[
             InlineKeyboardButton('ʙᴀᴄᴋ​', callback_data='start')
         ]]
@@ -1213,9 +1213,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ꜱᴛᴀᴛᴜꜱ', callback_data='stats'),
             InlineKeyboardButton('ᴅɪꜱᴄʟᴀɪᴍᴇʀ', callback_data='source')
         ],[
-            InlineKeyboardButton('ꜱᴜʙꜱᴄʀɪʙᴇ  ᴍʏ  ʏᴛ  ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@NobiDeveloper')
+            InlineKeyboardButton('❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥', url='https://t.me/addlist/lDx-uWhVnDxlMGRl')
         ],[
-            InlineKeyboardButton('ʀᴇᴘᴏʀᴛ  ʙᴜɢꜱ  ᴀɴᴅ  ꜰᴇᴇᴅʙᴀᴄᴋ', url='https://telegram.me/NobiDeveloperSupport')
+            InlineKeyboardButton('📞𝙾𝚠𝚗𝚎𝚛', url='https://t.me/PreDVD_ChatBot')
         ],[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
@@ -1263,10 +1263,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "button":
         buttons = [[
-                    InlineKeyboardButton("💶    ᴘʟᴇᴀsᴇ  ᴅᴏɴᴀᴛᴇ    💶", url="https://telegra.ph/SUPPORT-12-22-2")
+                    InlineKeyboardButton("💶 ᴘʟᴇᴀsᴇ 𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾 𝖥𝖾𝖾𝗅 𝖥𝗋𝖾𝖾 💶", url="https://graph.org/file/c20c2ee9722c31f2e7671.jpg")
                  ],[
                     InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start"),
-                    InlineKeyboardButton("ᴄᴏɴᴛᴀᴄᴛ", url="https://telegram.me/Nobideveloperr")
+                    InlineKeybhttps://t.me/PreDVD_ChatBothttps://t.me/PreDVD_ChatBot")
                   ]]
         await client.edit_message_media(
             query.message.chat.id, 
