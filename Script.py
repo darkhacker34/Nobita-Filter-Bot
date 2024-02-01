@@ -5,7 +5,7 @@ class script(object):
 ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  𝘼𝙣𝙞𝙢𝙚𝙨  ᴀɴᴅ  𝙎𝙚𝙧𝙞𝙚𝙨,
 ᴊᴜ𝙨ᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  𝙀𝙣𝙟𝙤𝙮  😍
 
-🤩 Oru Community : <a href='https://t.me/addlist/lDx-uWhVnDxlMGRl'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ</a></b>
+🤩 Oru Community : <a href='https://t.me/addlist/lDx-uWhVnDxlMGRl'>𝚃𝚊𝚖𝚒𝚕 𝚁𝚘𝚌𝚔𝚎𝚛𝚜</a></b>
 """
 
     HELP_TXT = """
