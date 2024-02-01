@@ -51,28 +51,13 @@ class script(object):
 <b>⍟ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ɢʀᴏᴜᴘs ᴍᴏᴅᴜʟᴇ ⍟</b>
 
 <b>🏠 𝖮𝗎𝗋 𝖥𝖺𝗆𝗂𝗅𝗒
-👽 Gʀᴏᴜᴘ
+👽 Sᴇʀɪᴇs/Aɴɪᴍᴇ ʀᴇǫᴜᴇsᴛɪɴɢ Gʀᴏᴜᴘ.
 🔗 Mᴀɪɴ Cʜᴀɴɴᴇʟ
 📞 Assɪsᴛᴀɴᴛ
 🎬  ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛɪɴɢ ɢʀᴏᴜᴘ.</b>"""
 
     BUTTON_TXT = """
-<b>💵 ɪ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛᴏ ʏᴏᴜ 💸
-
-ᴘʟᴇᴀsᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰᴏʀ ᴋᴇᴇᴘɪɴɢ ᴛʜᴇ sᴇʀᴠɪᴄᴇ ᴀʟɪᴠᴇ & ᴋᴇᴇᴘ ʙʀɪɴɢɪɴɢ ᴍᴏʀᴇ ɴᴇᴡ ꜰᴇᴀᴛᴜʀᴇs ꜰᴏʀ ʏᴏᴜ....</b>
-
-𝐘𝐨𝐮 𝐂𝐚𝐧 𝐃𝐨𝐧𝐚𝐭𝐞 𝐀𝐧𝐲 𝐀𝐦𝐨𝐮𝐧𝐭 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 💷
-
-<b>᚜ ᴘᴀʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs ᚛</b>
-
-💵 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗚𝗼𝗼𝗴𝗹𝗲 𝗣𝗮𝘆</a>
-💸 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗮𝘆𝘁𝗺</a>
-💶 <a href='https://telegra.ph/SUPPORT-12-22-2'>𝗣𝗵𝗼𝗻𝗲𝗣𝗲</a>
-
-𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐌𝐞 𝐅𝐨𝐫 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐡𝐞 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐈𝐧𝐟𝐨
-
-<b>ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a>
-ᴄʟɪᴄᴋ ʜᴇʀᴇ - <a href='https://telegram.me/NobiDeveloperr'>ʙᴏss</a></b>"""
+<b> Hy {mention} 🤡 Sorry This Is Not Main Repo. ☣️></b>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
