@@ -1266,7 +1266,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton("💶 ᴘʟᴇᴀsᴇ 𝖢𝗅𝗂𝖼𝗄 𝖧𝖾𝗋𝖾 𝖥𝖾𝖾𝗅 𝖥𝗋𝖾𝖾 💶", url="https://graph.org/file/c20c2ee9722c31f2e7671.jpg")
                  ],[
                     InlineKeyboardButton("ʙᴀᴄᴋ", callback_data="start"),
-                    InlineKeybhttps://t.me/PreDVD_ChatBothttps://t.me/PreDVD_ChatBot")
+                    InlineKeyboardButton("ᴄᴏɴᴛᴀᴄᴛ", url="https://t.me/PreDVD_ChatBot")
                   ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -1612,7 +1612,7 @@ async def auto_filter(client, msg, spoll=False):
             [InlineKeyboardButton(text="🔘 ɴᴏ ᴍᴏʀᴇ ᴘᴀɢᴇs 🔘",callback_data="pages")]
         )
     btn.insert(0, [
-        InlineKeyboardButton("⛔️  sᴜʙsᴄʀɪʙᴇ ᴏᴜʀ ʏᴛ ᴄʜᴀɴɴᴇʟ  ⛔️", url="https://youtube.com/@NobiDeveloper")
+        InlineKeyboardButton("❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
     ])
     imdb = await get_poster(search, file=(files[0]).file_name) if settings["imdb"] else None
     now = datetime.now(tz)
