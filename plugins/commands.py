@@ -24,10 +24,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('🤖  ᴜᴘᴅᴀᴛᴇꜱ  🤖', url="https://telegram.me/Nobideveloper")
+                InlineKeyboardButton(' 🏡 𝖮𝗎𝗋 𝖥𝖺𝗆𝗂𝗅𝗒', url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
             ],
             [
-                InlineKeyboardButton('♻️  ᴘʟᴇᴀꜱᴇ ꜱʜᴀʀᴇ  ♻️', url=f"https://telegram.me/share/url?url=telegram.me/Nobideveloper"),
+                InlineKeyboardButton('♻️  ᴘʟᴇᴀꜱᴇ ꜱʜᴀʀᴇ  ♻️', url=f"https://telegram.me/share/url?url=telegram.me/series_Laab"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -150,7 +150,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥", url="https://telegram.me/AllRequestGroups")
+                          InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​S ❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
                          ]
                         ]
                     )
@@ -166,7 +166,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥", url="https://telegram.me/AllRequestGroups")
+                          InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟS​ ❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
                          ]
                         ]
                     )
@@ -369,7 +369,7 @@ async def start(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥", url="https://telegram.me/AllRequestGroups")
+                  InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​s ❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
                  ]
                 ]
             )
@@ -407,7 +407,7 @@ async def start(client, message):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥", url="https://telegram.me/AllRequestGroups")
+                              InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​s ❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
                              ]
                             ]
                         )
@@ -457,7 +457,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟ​ ❤️‍🔥", url="https://telegram.me/AllRequestGroups")
+                      InlineKeyboardButton("❤️‍🔥 ᴄʜᴀɴɴᴇʟS​ ❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
                      ]
                     ]
                 )
@@ -1063,10 +1063,10 @@ async def tutorial(bot, message):
 @Client.on_message(filters.command("rem_tutorial"))
 async def removetutorial(bot, message):
     btn = [[
-        InlineKeyboardButton(text="ʀᴇᴘᴏ", url="https://github.com/NobiDeveloper/Nobita-Filter-Bot"),
-        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://telegram.me/NobiDeveloperr")
+        InlineKeyboardButton(text="Mᴏᴠɪᴇs", url="https://t.me/Movie_Laab"),
+        InlineKeyboardButton(text="ᴏᴡɴᴇʀ", url="https://telegram.me/nihh_all")
         ],[
-        InlineKeyboardButton(text="ꜱᴜʙꜱᴄʀɪʙᴇ  ᴍʏ  ʏᴛ  ᴄʜᴀɴɴᴇʟ", url="https://youtube.com/@Nobideveloper")
+        InlineKeyboardButton(text="❤️‍🔥𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥", url="https://t.me/addlist/lDx-uWhVnDxlMGRl")
     ]]
     userid = message.from_user.id if message.from_user else None
     if not userid:
