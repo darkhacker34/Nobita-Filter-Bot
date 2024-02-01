@@ -2,10 +2,10 @@ class script(object):
     START_TXT = """
 <b>{},
 
-ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  ᴍᴏᴠɪᴇs  ᴀɴᴅ  sᴇʀɪᴇs,
-ᴊᴜsᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  ᴇɴᴊᴏʏ  😍
+ɪ  ᴄᴀɴ  ᴘʀᴏᴠɪᴅᴇ  𝘼𝙣𝙞𝙢𝙚𝙨  ᴀɴᴅ  𝙎𝙚𝙧𝙞𝙚𝙨,
+ᴊᴜ𝙨ᴛ  ᴀᴅᴅ  ᴍᴇ  ᴛᴏ  ʏᴏᴜʀ  ɢʀᴏᴜᴘ  ᴀɴᴅ  𝙀𝙣𝙟𝙤𝙮  😍
 
-💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/MovieVillaYT'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ</a></b>
+🤩 Oru Community : <a href='https://t.me/addlist/lDx-uWhVnDxlMGRl'>ᴍᴏᴠɪᴇ ᴠɪʟʟᴀ</a></b>
 """
 
     HELP_TXT = """
