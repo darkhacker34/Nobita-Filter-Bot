@@ -57,7 +57,7 @@ class script(object):
 🎬  ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛɪɴɢ ɢʀᴏᴜᴘ.</b>"""
 
     BUTTON_TXT = """
-<b> Hy {mention} 🤡 Sorry This Is Not Main Repo. ☣️></b>"""
+<b> 🤡 Sorry This Is Not Main Repo.☣️</b>"""
 
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
 <b>ɴᴏᴛᴇ: Fɪʟᴇ Iɴᴅᴇx</b>
