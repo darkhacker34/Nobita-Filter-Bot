@@ -1406,7 +1406,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "shortlink_info":
             btn = [[
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='start'),
-            InlineKeyboardButton('❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥', url='https://t.me/addlist/lDx-uWhVnDxlMGRl')
+            InlineKeyboardButton('❤️‍🔥𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥', url='https://t.me/addlist/lDx-uWhVnDxlMGRl')
             ]]
             await client.edit_message_media(
                 query.message.chat.id, 
