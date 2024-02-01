@@ -26,7 +26,7 @@ async def ban_reply(bot, message):
 @Client.on_message(filters.group & disabled_group & filters.incoming)
 async def grp_bd(bot, message):
     buttons = [[
-        InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://telegram.me/NobiDeveloperSupport')
+        InlineKeyboardButton('❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥', url='https://t.me/addlist/lDx-uWhVnDxlMGRl')
     ]]
     reply_markup=InlineKeyboardMarkup(buttons)
     vazha = await db.get_chat(message.chat.id)
