@@ -38,8 +38,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('🥷 ʜᴇʟᴘ 🥷', url='https://telegram.me/NobiDeveloperSupport'),
-                    InlineKeyboardButton('♻️ ᴜᴘᴅᴀᴛᴇꜱ ♻️', url='https://telegram.me/NobiDeveloper')
+                    InlineKeyboardButton('❤️‍🔥𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲❤️‍🔥', url='https://t.me/addlist/lDx-uWhVnDxlMGRl'),
+                    InlineKeyboardButton('♻️Pʟᴇᴀsᴇ Sʜᴀʀᴇ♻️', url='https://telegram.me/share/url?url=telegram.me/series_Laab')
                  ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await message.reply_text(
